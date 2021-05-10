@@ -1,0 +1,5 @@
+Mahesh = /home/jd/Desktop/jd/java/sir/task1/properties/Mahesh.properties
+Suresh = /home/jd/Desktop/jd/java/sir/task1/properties/Suresh.properties
+Kamal  = /home/jd/Desktop/jd/java/sir/task1/properties/Kamal.properties
+Parihar= /home/jd/Desktop/jd/java/sir/task1/properties/Parihar.properties
+
